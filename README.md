@@ -4,6 +4,8 @@
 
 # ***PCA & HOG for Human Face Recognition***
 
+[https://github.com/yeehengwang/PCA-HOG-for-Human-Face-Recognition](https://github.com/yeehengwang/PCA-HOG-for-Human-Face-Recognition)
+
   ******
 
 > ***Face recognition is a very typical task for machine learning research. In this project, we use two methods, Histograms of Oriented Gradients and Principal Component Analysis, to process the initial face images. SVM is used as a baseline classifier throughout the study.***
@@ -64,4 +66,4 @@ python3 PCA.py
 
 **[1]:** [N. Dalal and B. Triggs, "Histograms of oriented gradients for human detection," *2005 IEEE Computer Society Conference on Computer Vision and Pattern Recognition (CVPR'05)*, 2005, pp. 886-893 vol. 1, doi: 10.1109/CVPR.2005.177.](https://ieeexplore.ieee.org/document/1467360)
 
-**[2]:** [**urk, Matthew, & Alex Pentland. “Eigenfaces for Recognition”. *Journal of Cognitive Neuroscience* 3, 1 (1991.1.1): 71–86. https://doi.org/10.1162/jocn.1991.3.1.71.](https://www.cin.ufpe.br/~rps/Artigos/Face%20Recognition%20Using%20Eigenfaces.pdf)
+**[2]:** [urk, Matthew, & Alex Pentland. “Eigenfaces for Recognition”. *Journal of Cognitive Neuroscience* 3, 1 (1991.1.1): 71–86. https://doi.org/10.1162/jocn.1991.3.1.71.](https://www.cin.ufpe.br/~rps/Artigos/Face%20Recognition%20Using%20Eigenfaces.pdf)

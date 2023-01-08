@@ -48,15 +48,15 @@ python3 PCA.py
 
 ### HOG
 
-![Figure_1.png](README%206b242b0f342941d49428118d50a4ab93/Figure_1.png)
+![Figure_1.png](IMAGE/Figure_1.png)
 
-![Figure_2.png](README%206b242b0f342941d49428118d50a4ab93/Figure_2.png)
+![Figure_2.png](IMAGE/Figure_2.png)
 
 ### PCA
 
-![Figure_3.png](README%206b242b0f342941d49428118d50a4ab93/Figure_3.png)
+![Figure_3.png](IMAGE/Figure_3.png)
 
-![Figure_4.png](README%206b242b0f342941d49428118d50a4ab93/Figure_4.png)
+![Figure_4.png](IMAGE/Figure_4.png)
 
 ---
 
@@ -64,4 +64,4 @@ python3 PCA.py
 
 **[1]:** [N. Dalal and B. Triggs, "Histograms of oriented gradients for human detection," *2005 IEEE Computer Society Conference on Computer Vision and Pattern Recognition (CVPR'05)*, 2005, pp. 886-893 vol. 1, doi: 10.1109/CVPR.2005.177.](https://ieeexplore.ieee.org/document/1467360)
 
-**[2]: [**urk, Matthew, & Alex Pentland. “Eigenfaces for Recognition”. *Journal of Cognitive Neuroscience* 3, 1 (1991.1.1): 71–86. https://doi.org/10.1162/jocn.1991.3.1.71.](https://www.cin.ufpe.br/~rps/Artigos/Face%20Recognition%20Using%20Eigenfaces.pdf)
+**[2]:** [**urk, Matthew, & Alex Pentland. “Eigenfaces for Recognition”. *Journal of Cognitive Neuroscience* 3, 1 (1991.1.1): 71–86. https://doi.org/10.1162/jocn.1991.3.1.71.](https://www.cin.ufpe.br/~rps/Artigos/Face%20Recognition%20Using%20Eigenfaces.pdf)
